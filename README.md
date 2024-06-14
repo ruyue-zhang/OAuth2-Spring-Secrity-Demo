@@ -1,2 +1,2 @@
-# OAuth2-Spring-Secrity-Demo
+# OAuth2-Spring-Security-Demo
 This reposity is a demo for study OAuth2.0.
